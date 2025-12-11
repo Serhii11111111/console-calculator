@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# PyInstaller build folders
+build/
+dist/
+*.spec
+
+# Virtual environments
+venv/
+env/
+
+# Executables
+*.exe
+
+# Test cache
+.pytest_cache/
+
+# History and error files (якщо не хочеш публікувати)
+history.json
+errors.json
